@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TristianDatingSimulator", "TristianDatingSimulator\TristianDatingSimulator.csproj", "{15026596-A717-4C3F-9B1D-746F4A4AE0A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15026596-A717-4C3F-9B1D-746F4A4AE0A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15026596-A717-4C3F-9B1D-746F4A4AE0A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15026596-A717-4C3F-9B1D-746F4A4AE0A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15026596-A717-4C3F-9B1D-746F4A4AE0A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACB8A0C5-E2CB-40D2-95BA-4D37366F197A}
+	EndGlobalSection
+EndGlobal

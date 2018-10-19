@@ -1,0 +1,10 @@
+C:\Users\thatw\Documents\VisualStudioProjects\TristianDatingSimulator\TristianDatingSimulator\bin\Debug\TristianDatingSimulator.exe.config
+C:\Users\thatw\Documents\VisualStudioProjects\TristianDatingSimulator\TristianDatingSimulator\bin\Debug\TristianDatingSimulator.exe
+C:\Users\thatw\Documents\VisualStudioProjects\TristianDatingSimulator\TristianDatingSimulator\bin\Debug\TristianDatingSimulator.pdb
+C:\Users\thatw\Documents\VisualStudioProjects\TristianDatingSimulator\TristianDatingSimulator\obj\Debug\TristianDatingSimulator.csprojAssemblyReference.cache
+C:\Users\thatw\Documents\VisualStudioProjects\TristianDatingSimulator\TristianDatingSimulator\obj\Debug\TristianDatingSimulator.Properties.Resources.resources
+C:\Users\thatw\Documents\VisualStudioProjects\TristianDatingSimulator\TristianDatingSimulator\obj\Debug\TristianDatingSimulator.csproj.GenerateResource.cache
+C:\Users\thatw\Documents\VisualStudioProjects\TristianDatingSimulator\TristianDatingSimulator\obj\Debug\TristianDatingSimulator.csproj.CoreCompileInputs.cache
+C:\Users\thatw\Documents\VisualStudioProjects\TristianDatingSimulator\TristianDatingSimulator\obj\Debug\TristianDatingSimulator.exe
+C:\Users\thatw\Documents\VisualStudioProjects\TristianDatingSimulator\TristianDatingSimulator\obj\Debug\TristianDatingSimulator.pdb
+C:\Users\thatw\Documents\VisualStudioProjects\TristianDatingSimulator\TristianDatingSimulator\obj\Debug\TristianDatingSimulator.frmDate.resources
